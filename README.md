@@ -1,4 +1,5 @@
 ## Hi there 👋
+俺は高校生プログラマーSudo新一（大嘘）
 
 <!--
 **IT-1-F-24/IT-1-F-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
