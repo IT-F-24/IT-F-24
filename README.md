@@ -1,5 +1,5 @@
 ## Hi there 👋
-俺は高校生プログラマーSudo新一（大嘘）
+Bye there.
 
 
 [![](https://raw.githubusercontent.com/IT-1-F-24/IT-1-F-24/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
